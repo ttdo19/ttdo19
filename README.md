@@ -1,6 +1,6 @@
 # 💫 About Me:
 I'm currently a senior in Computer Science and I am interested in building websites and iOS apps. 
-[![Personal Website](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://trangdo.netlify.app) 
+(https://trangdo.netlify.app) 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/trangdo01) 
